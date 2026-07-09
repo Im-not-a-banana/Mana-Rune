@@ -22,3 +22,6 @@ Instilation for the Texture Pack:
   4) After it is finished copying the texture pack, you can close thefolder window.
   5) Look for the texture pack on the left column and activate the texture pack by hitting the big arrow that will apear over it when hovering on it and then 'Done' at the bottom.
   6) If everything was done correctly, a red screen with the words 'Mojang Studios' and a loading bar will pop up.
+
+
+Also, Im sorry about the bad video quality in the demo. My recording software is a potato :/.
