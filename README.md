@@ -24,4 +24,4 @@ Instilation for the Texture Pack:
   6) If everything was done correctly, a red screen with the words 'Mojang Studios' and a loading bar will pop up.
 
 
-Also, Im sorry about the bad video quality in the demo. My recording software is a potato :/.
+Also, I was going to include a demo video but it was to big so i have split it up into screenshots of some of the features.
