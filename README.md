@@ -8,6 +8,8 @@ However, if you want play it there are a few things you should note.
   5) All art in the texture pack is also done by me using Pixleorama, which is a great and free pixelated art software.
   6) The instalation process is a bit complicated. Unfortunately, there are no easier ways to do this.
 
+To download the files, click 'View Raw' (I think. This is my forst time using github so sorry if i am wrong).
+
 Instilation for the Datapack:
   1) Go to create a new world, then click 'More' and then 'Datapacks'.
   2) Once you are here, click 'Open Pack Folder' and then drag and drop the 'Mana Rune Datapack.zip' folder here.
