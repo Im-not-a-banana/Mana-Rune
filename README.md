@@ -1,5 +1,10 @@
 Mana Rune is a fun data and texture pack that adds magic to Minecraft.
 It adds a progression, many cutom items, custom dimensions, biomes, recipes, interfaces, advancements, structures, a class and levels system (similar to DND) and much more.
+
+If you want to see a demo which !!definetly includes spoilers!!, go to this link: [https://onedrive.live.com/?sw=bypass&bypassReason=abandoned&qt=allmyphotos&photosData=%2Fshare%2FEFB52E9CE6833146%21s49e637cbd5b94cc5adf98c94f5ef94dc%3Fithint%3Dvideo%26e%3DfIjwP7%26migratedtospo%3Dtrue&cid=EFB52E9CE6833146&id=EFB52E9CE6833146%21s49e637cbd5b94cc5adf98c94f5ef94dc&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy9lZmI1MmU5Y2U2ODMzMTQ2L0lRRExOLVpKdWRYRlRLMzVqSlQxNzVUY0FUX2pSVE5OcmZjM1BwOEZmc01SN2NjP2U9Zklqd1A3&startedResponseCatch=true&v=photos](Mana_Rune_Demo)
+
+Also, if you are playing with the resource pack, make sure to have the datapack on as there could be spoilers.
+
 However, if you want play it there are a few things you should note.
   1) You NEED a Minecraft Java acount for this to work. Data and texture packs piggy-back off of Minecraft's preexisting framework to add new things.
   2) Just as Minecraft may take a while to beat, this datapack is designed with a survival progression and much else that would take a long time to 100%.
